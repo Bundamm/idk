@@ -9,4 +9,4 @@ def bruh_test():
 def lmao_test():
     assert lmao(2,4) == 8
     assert lmao(3,6) == 18
-    assert lmao(2,3) == 5
+    assert lmao(2,3) == 2
